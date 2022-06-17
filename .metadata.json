@@ -1,0 +1,10 @@
+[
+  {
+    "package": "bnspatial",
+    "oncran": true
+  },
+  {
+    "package": "landscapeR",
+    "oncran": true
+  }
+]
